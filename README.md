@@ -69,4 +69,4 @@ Human Evaluation Accuracy: 93%
 Legal Research Time Reduction: 50%
 Legal Compliance Understanding Improvement: 40%
 
-LexLLM powered by GPT-4o provided the most precise and contextually accurate legal responses, outperforming all other models in accuracy, retrieval efficiency, and real-world usability. 🚀
+LexLLM powered by GPT-4o provided the most precise and contextually accurate legal responses, outperforming all other models in accuracy, retrieval efficiency, and real-world usability. 
